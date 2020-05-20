@@ -102,7 +102,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(https://previews.123rf.com/images/tolkachev/tolkachev1806/tolkachev180600044/102306572-abstract-digital-skull-background-hacking-and-cyber-risk-concept-3d-rendering.jpg);
+    background: url("../img/background.jpg");
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
@@ -149,6 +149,7 @@ main {
         transition: all 0.5s ease-out; }
   main#home {
     display: flex;
+    back
     justify-content: center;
     align-items: center; }
     main#home .home-block {
